@@ -52,3 +52,9 @@
      <img src="./03.png">
   3. Series of Acknowledgement
      <img src="./04.png">
+- multi block write mechanism
+  <img src="./05.png">
+
+# HDFS Read Mechanism
+
+<img src="./06.png">
