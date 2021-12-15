@@ -28,3 +28,22 @@
 - fsImage(final)
 
 <img src="./01.png">
+
+# HDFS Data Blocks
+
+- Each file is stored on HDFS as blocks
+- Default size of each block is 128MB in 2.x and 64Mb in 1.x
+- 380MB file = 128MB block + 128MB block+ 124MB block
+- Highly scalable
+- Reduced processing time (Paralelly processed)
+
+# Fault Tolerance
+
+- Replication Factor
+- Commodity hardware
+- Never put all your eggs in the same basket
+
+# HDFS Write Mechanism
+
+- Three step process
+  1. Setting up HDFS write pipeline
