@@ -47,3 +47,8 @@
 
 - Three step process
   1. Setting up HDFS write pipeline
+     <img src="./02.png">
+  2. Write Request
+     <img src="./03.png">
+  3. Series of Acknowledgement
+     <img src="./04.png">
