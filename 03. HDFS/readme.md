@@ -46,13 +46,13 @@
 # HDFS Write Mechanism
 
 - Three step process
-  1. Setting up HDFS write pipeline
+  1. Setting up HDFS write pipeline  
      <img src="./02.png">
-  2. Write Request
+  2. Write Request  
      <img src="./03.png">
-  3. Series of Acknowledgement
+  3. Series of Acknowledgement  
      <img src="./04.png">
-- multi block write mechanism
+- multi block write mechanism  
   <img src="./05.png">
 
 # HDFS Read Mechanism

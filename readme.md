@@ -18,3 +18,5 @@ url:- https://youtu.be/1vbXmCrkT3Y
 12. Apache Hive
 13. Apache HBase
 14. Hadoop Projects
+
+1:25:34
